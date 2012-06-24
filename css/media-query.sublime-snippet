@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+@media only screen and (min-width: 768px) and (max-width: 959px) {}
+]]></content>
+  <tabTrigger>media-query</tabTrigger>
+  <scope>source.css</scope>
+</snippet>
