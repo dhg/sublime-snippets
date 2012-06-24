@@ -19,8 +19,8 @@
 
 .selector {
   /* Animation name, duration, delay, iterations, easing */
-  -webkit-animation: fade 1s 0 0 ease-out;
-  -moz-animation: fade 1s 0 0 ease-out;
+  -webkit-animation: fade 1s ease-out;
+  -moz-animation: fade 1s ease-out;
 }]]>
   </content>
   <tabTrigger>animation</tabTrigger>

@@ -1,4 +1,0 @@
-<snippet>
-  <content><![CDATA[<button class="btn ${1:primary}" type="submit">${2:Button text}</a>]]></content>
-  <tabTrigger>bs</tabTrigger>
-</snippet>
